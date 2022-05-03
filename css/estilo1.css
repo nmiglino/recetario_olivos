@@ -1,0 +1,185 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+background-color: black;
+
+}
+
+main{
+	margin-right: auto;
+	margin-left: auto;
+	width: 950px;
+	height: 650px;
+	background-color: #7d7d7d;
+}
+
+header{
+	margin-right: auto;
+	margin-left: auto;
+	width: 950px;
+	height: 120px;
+	background-color: #b7b7b7;
+}
+
+#nav{
+	margin-right: auto;
+	margin-left: auto;
+	width: 950px;
+	height: 40px;
+	background-color: #d7d7d7;
+	float: right;
+	margin-top: 60px;
+}
+#botones{
+	width: 115px;
+	height: 30px;
+	background-color: #707070;
+	float: right;
+	margin-top: 5px;
+	margin-right: 20px;
+}
+#botones2{
+	width: 115px;
+	height: 30px;
+	background-color: #707070;
+	float: right;
+	margin-right: 135px;
+}
+#logo1{
+	width: 250px;
+	height: 115px;
+	background-color: #a1a1a1;
+	float: right;
+	margin-right: 320px;
+	margin-top: -90px;
+	background-image: url(../img/rallas3.png);
+}
+#logo2{
+	width: 250px;
+	height: 95px;
+	background-color: #a1a1a1;
+	float: right;
+	margin-right: 660px;
+	margin-top: -107px;
+	background-image: url(../img/rallas4.png);
+}
+footer{
+	margin-right: auto;
+	margin-left: auto;
+	width: 950px;
+	height: 43px;
+	background-color: #636363;
+}
+
+.texto1{
+	float:left;
+	margin-left: 465px;
+	font-family: Century Gothic ;
+	font-size: 15px;
+	margin-top: -30px;
+}
+.texto2{
+	float:left;
+	margin-left: 122px;
+	font-family: Century Gothic ;
+	font-size: 15px;
+	margin-top: -38px;
+}
+
+.boton1{
+	float:right;
+	margin-right: 190px;
+	font-family: Century Gothic ;
+	font-size: 16px;
+	margin-top: -50px;
+}
+
+.boton2{
+	float:right;
+	margin-right: 54px;
+	font-family: Century Gothic ;
+	font-size: 16px;
+	margin-top: -50px;	
+}
+
+#cuadrado1{
+	width: 400px;
+	height: 170px;
+	background-color: #464646;
+	float: left;
+	margin-top: 40px;	
+}
+#cuadrado2{
+	width: 300px;
+	height: 115px;
+	background-color: #464646;
+	float: right;
+	margin-top: 280px;	
+}
+.titulo1{
+	float:left;
+	margin-left: 90px;
+	font-family: Century Gothic ;
+	font-size: 32px;
+	margin-top: -123px;	
+}
+.titulo2{
+	float:left;
+	margin-left: 90px;
+	font-family: Century Gothic ;
+	font-size: 32px;
+	margin-top: -83px;	
+}
+.titulo3{
+	float:right;
+	margin-right: -280px;
+	font-family: Century Gothic;
+	font-size: 18px;
+	margin-top: 82px;	
+	text-align: center;
+}
+.nombre{
+	float:left;
+	margin-left: 30px;
+	font-family: Century Gothic;
+	font-size: 14px;
+margin-top: 12px;
+}
+#red1{
+	width: 40px;
+	height: 40px;
+	background-color: #7d7d7d;
+	float: right;
+	margin-top:2px; 
+	margin-right: 140px;
+	background-image: url(../img/rallas1.png);
+}
+#red2{
+	width: 40px;
+	height: 40px;
+	background-color:#7d7d7d;
+	float: right;
+	margin-top:2px; 
+	margin-right: -95px;
+	background-image: url(../img/rallas1.png);
+}
+#red3{
+	width: 40px;
+	height: 40px;
+	background-color: #7d7d7d;
+	float: right;
+	margin-top:2px; 
+	margin-right: -152px;
+	background-image: url(../img/rallas1.png);
+}
+
+section{
+	width: 950px;
+	height: 487px;
+	background-color: #7d7d7d;
+	background-image: url(../img/rallas2.png);
+}
